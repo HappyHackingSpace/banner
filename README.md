@@ -1,30 +1,30 @@
-# `@hackclub/banner`
+# `@happyhackingspace/banner`
 
-> React component for adding a [Hack Club](https://hackclub.com) banner to your club site
+> React component for adding a [Happy Hacking Space](https://happyhacking.space) banner to your club site
 
-[![npm](https://img.shields.io/npm/v/@hackclub/banner.svg)](https://www.npmjs.com/package/@hackclub/banner) [![Build Status](https://travis-ci.org/hackclub/banner.svg?branch=master)](https://travis-ci.org/hackclub/banner)
+[![npm](https://img.shields.io/npm/v/@happyhackingspace/banner.svg)](https://www.npmjs.com/package/@happyhackingspace/banner) [![Build Status](https://travis-ci.org/happyhackingspace/banner.svg?branch=master)](https://travis-ci.org/hackclub/banner)
 
 ## Install
 
 Use npm or yarn as follows:
 
 ```bash
-npm install --save @hackclub/banner
-yarn add @hackclub/banner
+npm install --save @happyhackingspace/banner
+yarn add @happyhackingspace/banner
 ```
 
 ## Usage
 
-Place `<Banner />` anywhere on your club site homepage.
+Place `<Banner />` anywhere on your site homepage.
 
 ```jsx
 import React from 'react'
-import Banner from '@hackclub/banner'
+import Banner from '@happyhackingspace/banner'
 
 export default () => (
   <main>
     <Banner />
-    <h1>Hacking High School Hack Club</h1>
+    <h1>Hacking High School Happy Hacking Space</h1>
   </main>
 )
 ```
