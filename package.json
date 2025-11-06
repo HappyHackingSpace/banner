@@ -1,7 +1,7 @@
 {
-  "name": "@hackclub/banner",
-  "version": "1.0.3",
-  "description": "React component for adding a Hack Club banner to your site",
+  "name": "@happyhackingspace/banner",
+  "version": "0.0.2",
+  "description": "React component for adding a Happy Hacking Space banner to your site",
   "author": "lachlanjc <lachlan@hackclub.com>",
   "license": "MIT",
   "homepage": "https://hackclub.com/banner",
